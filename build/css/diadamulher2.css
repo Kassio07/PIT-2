@@ -1,0 +1,47 @@
+/* ESQUERDA */
+.nav_title{background: #f7f7f7;padding: 0px; height: 62px;}
+.site_title{height: 62px; margin-left: 3px;}
+.logo-completo {margin-left: 4px;}
+.logo-incompleto {margin-left: 4px;}
+
+.main_menu span.fa{color: #4b4d4f}
+.main_container{background: #f7f7f7;}
+
+.profile_info span{color: #4b4d4f}
+.profile_info h2{color: #4b4d4f}
+.site_title i{border: none;-webkit-text-fill-color: transparent;background-image: url(https://www.faculdadeics.com.br/PICS/build/images/lampada-clara.png);background-position: center;background-size: contain;background-repeat: no-repeat;}
+.navbar-brand, .navbar-nav>li>a, .site_title{color: #95a5a6!important;}
+
+.left_col {background: #f7f7f7; border-right: 1px solid #efefef}
+.container{background-color: #FFF}
+
+.nav-sm ul.nav.child_menu{background:#455361;}
+.nav-sm .logo-completo{display: none;}
+.nav.child_menu>li>a, .nav.side-menu>li>a{color: #4b4d4f}
+.nav.side-menu>li.active>a{background: #eee;box-shadow: #eee 0 1px 0, inset #eee 0 1px 0;}
+.nav-md ul.nav.child_menu li:before{background:#4b4d4f}
+.nav-md ul.nav.child_menu li:after{background:#4b4d4f;border-left: 1px solid #4b4d4f}
+.nav.child_menu>li>a{color: #4b4d4f}
+.nav.side-menu>li.active, .nav.side-menu>li.current-page {border-right: 5px solid #e95544;}
+.nav.child_menu li:hover{background-color: #eee}
+.nav.child_menu>li>a:hover, .nav.side-menu>li>a:hover{color: #111820!important;}
+.nav.child_menu>li>a:focus, .nav.side-menu>li>a:focus{color: #111820!important;}
+.nav li li.current-page a, .nav.child_menu li li a.active, .nav.child_menu li li a:hover{color: #111820!important;}
+.nav.side-menu>li:hover{color: #111820;}
+.nav li.current-page{background-color: #eee;}
+
+.sidebar-footer{background-color: #f7f7f7;}
+/*.sidebar-footer .tema{background-image: url(https://www.uniplena.com.br/PICS/images/papi-noel-menu-.png);background-position: center;background-size: contain;background-repeat: no-repeat;width: 100%;height: 104px;}*/
+/* TOPO */
+.nav_menu{background: #e95545;}
+.toggle a{color: #fff;}
+.nav.navbar-nav>li>a{color: #fff!important;}
+.top_nav .nav .open>a, .top_nav .nav .open>a:focus, .top_nav .nav .open>a:hover, .top_nav .nav>li>a:focus, .top_nav .nav>li>a:hover{background: #c54234;}
+
+/* CONTEUDO */
+body{background:#FFF;color: #4b4d4f}
+body .container.body .right_col{background: #FFF;}
+
+@media (max-width: 768px){
+	div.col-sm-12{width: 100%;}
+}

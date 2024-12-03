@@ -1,0 +1,34 @@
+/* ESQUERDA */
+.nav_title{background: #97052D;}
+
+.main_menu span.fa{color: #FFF;}
+.main_container{background: #E63450;}
+
+.profile_info span{color: #FFF;}
+.profile_info h2{color: #FFF;}
+.site_title i{border: none;-webkit-text-fill-color: transparent;background-image: url(https://www.uniplena.com.br/PICS/images/rosa-esquerda.png);background-position: center;background-size: contain;background-repeat: no-repeat;}
+.navbar-brand, .navbar-nav>li>a, .site_title{color: #FFF!important;}
+
+.left_col {background: #E63450;}
+
+.nav-sm ul.nav.child_menu{background:#97052D;}
+.nav.child_menu>li>a, .nav.side-menu>li>a{color: #FFF;}
+.nav.side-menu>li.active>a{background: #97052D;box-shadow: #97052D 0 1px 0, inset #97052D 0 1px 0;}
+.nav-md ul.nav.child_menu li:before{background:#97052D;}
+.nav-md ul.nav.child_menu li:after{background:#97052D;border-left: 1px solid #97052D;}
+.nav.child_menu>li>a{color: #FFF;}
+.nav.side-menu>li.active, .nav.side-menu>li.current-page {border-right: 5px solid #97052D;}
+.nav.child_menu li:hover{rgba(255,255,255,.06)}
+
+.sidebar-footer{background-color: #E63450; }
+.sidebar-footer .tema{background-image: url(https://www.uniplena.com.br/PICS/images/dia-da-mulher.png);background-position: center;background-size: contain;background-repeat: no-repeat;width: 100%;height: 104px;}
+/* TOPO */
+.nav_menu{background: #FCBDCE;}
+.toggle a{color: #E63450;}
+.nav.navbar-nav>li>a{color: #E63450!important;}
+.nav.navbar-nav>li>a:hover{color: #FFF!important;}
+.top_nav .nav .open>a, .top_nav .nav .open>a:focus, .top_nav .nav .open>a:hover, .top_nav .nav>li>a:focus, .top_nav .nav>li>a:hover{background: #E63450; color: #FFF}
+
+/* CONTEUDO */
+body{background:#fff9fb;color: #4b4d4f}
+body .container.body .right_col{background: #fff9fb;}

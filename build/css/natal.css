@@ -1,0 +1,33 @@
+/* ESQUERDA */
+.nav_title{background: #2A3F54;}
+
+.main_menu span.fa{color: #FFF;}
+.main_container{background: #db3b2a;}
+
+.profile_info span{color: #FFF;}
+.profile_info h2{color: #FFF;}
+.site_title i{border: none;-webkit-text-fill-color: transparent;background-image: url(https://www.uniplena.com.br/PICS/images/gorro-esquerda.png);background-position: center;background-size: contain;background-repeat: no-repeat;}
+.navbar-brand, .navbar-nav>li>a, .site_title{color: #FFF!important;}
+
+.left_col {background: #db3b2b;}
+
+.nav-sm ul.nav.child_menu{background:#b63325;}
+.nav.child_menu>li>a, .nav.side-menu>li>a{color: #FFF;}
+.nav.side-menu>li.active>a{background: #b63325;box-shadow: #b63325 0 1px 0, inset #b63325 0 1px 0;}
+.nav-md ul.nav.child_menu li:before{background:#b63325;}
+.nav-md ul.nav.child_menu li:after{background:#b63325;border-left: 1px solid #b63325;}
+.nav.child_menu>li>a{color: #FFF;}
+.nav.side-menu>li.active, .nav.side-menu>li.current-page {border-right: 5px solid #27ae60;}
+.nav.child_menu li:hover{rgba(255,255,255,.06)}
+
+.sidebar-footer{background-color: #db3b2b; }
+.sidebar-footer .tema{background-image: url(https://www.uniplena.com.br/PICS/images/papi-noel-menu-.png);background-position: center;background-size: contain;background-repeat: no-repeat;width: 100%;height: 104px;}
+/* TOPO */
+.nav_menu{background: #27ae60;}
+.toggle a{color: #fff;}
+.nav.navbar-nav>li>a{color: #fff!important;}
+.top_nav .nav .open>a, .top_nav .nav .open>a:focus, .top_nav .nav .open>a:hover, .top_nav .nav>li>a:focus, .top_nav .nav>li>a:hover{background: #27ae60;}
+
+/* CONTEUDO */
+body{background:#F7F7F7;color: #4b4d4f}
+body .container.body .right_col{background: #F7F7F7;}
