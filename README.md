@@ -1,4 +1,4 @@
-# PIT 2
+#  Projeto Integrador em Engenharia de Software - PIT 2
  Projeto Integrador em Engenharia de Software
 
  Projeto integrador em Engenharia de Software
