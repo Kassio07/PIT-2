@@ -15,9 +15,15 @@
 <img alt="Imagem - criando um post - CRM" src="images/tela3.png">
 </p>
 <p>
-<h3>Buscando um post por parâmetro um Post</h3>
+<h3>Buscando um post por parâmetro</h3>
 <img alt="Imagem - Buscando um post" src="images/tela4.png">
 </p>
+<p>
+<h3>Visualizando um post</h3>
+<img alt="Imagem - Visualizando um post" src="images/tela5.png">
+</p>
+
+<p>A lógica para Adicionar / Buscar / Ver / Editar / Excluir segue para os outros módulos também.</p> 
 
 
 
