@@ -22,8 +22,27 @@
 <h3>Visualizando um post</h3>
 <img alt="Imagem - Visualizando um post" src="images/tela5.png">
 </p>
+<p>
+<h3>Editando um post</h3>
+<img alt="Imagem - Editando um post" src="images/tela6.png">
+</p>
 
 <p>A lógica para Adicionar / Buscar / Ver / Editar / Excluir segue para os outros módulos também.</p> 
+<p> A ideia desse Blog e disparar o último post para os usuários cadastrados na Newsletter do site</p>
+
+## 🚀 Tecnologias
+
+ Esse projeto foi desenvolvido com as seguindes tecnologias:
+
+ - HTML - CSS/Bootstrap - JavaScript - PHP - MySQL
+ - GitHub
+ - Visual Studio Code
+
+
+ - Empresa solicitou esse projeto com intuido de identificar o nível de conhecimento nas tecnologias citadas acima. Aproveitei a oportunidade e fiz junto com projeto acadêmico solicitado pela faculdade!
+ ## :memo: Licença 
+
+ Esse projeto está sobre a licença MIT.
 
 
 
