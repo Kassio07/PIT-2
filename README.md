@@ -8,6 +8,7 @@
 </p>
 <p>
 <h3>Home - CRM</h3>
+ - Mostrando o TOTAL de post - TOTAL Usuário Cadastrados - TOTAL de E-mails Cadastrados -  Último Post - Btn para disparar o último post para os usuários cadastrados.
 <img alt="Imagem do home - CRM" src="images/tela2.png">
 </p>
 <p>
