@@ -2,8 +2,7 @@
  
  Projeto feito para empresa que trabalho e já aproveitei a oportunidade para fazer o da faculdade também. A ideia do projeto e um CRM, um blog do lado do ADM. 
 # CRM
- 
- <h1 align="center">Projeto Integrador em Engenharia de Software</h1>
+
  
  <p>
     <img alt="crud" src="img/crud.png" width="80%">
