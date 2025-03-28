@@ -10,6 +10,14 @@
 <h3>Home - CRM</h3>
 <img alt="Imagem do home - CRM" src="images/tela2.png">
 </p>
+<p>
+<h3>Criando um Post</h3>
+<img alt="Imagem - criando um post - CRM" src="images/tela3.png">
+</p>
+<p>
+<h3>Buscando um post por parâmetro um Post</h3>
+<img alt="Imagem - Buscando um post" src="images/tela4.png">
+</p>
 
 
 
